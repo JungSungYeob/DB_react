@@ -35,7 +35,7 @@
 <img width="348" alt="image" src="https://github.com/JungSungYeob/DB_react/assets/92677088/1572c007-bfb6-469f-a9bf-50e3bb19b5f3">
 
 ## 팀원 소개
->  **FE 1명 & BE 1명 & 인공지능모델 3명**
+>  **FE 2명 & BE 2명
 > 
 > 모델 개발에 필요한 데이터 라벨링은 공동 진행
 
